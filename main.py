@@ -257,3 +257,5 @@ if __name__ == "__main__":
     scr = pygame.display.set_mode((500, 500))
     clock = pygame.time.Clock()
     main(scr)
+
+#  пробный комит
